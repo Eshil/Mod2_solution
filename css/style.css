@@ -24,17 +24,17 @@ div {
     float: left;
     padding: 40px 10px 10px 10px;
     margin-bottom: 10px;
-    border: 2px black solid;
+    border: 1px black solid;
 
 }
 
 .title {
     position: absolute;
-    right: -2px;
-    top:-2px;
+    right: -1px;
+    top:-1px;
     width: 100px;
     padding: 5px 0;
-    border: 2px solid black;
+    border: 1px solid black;
     text-align: center;
     font-size: 120%;
 }
